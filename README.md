@@ -1,13 +1,13 @@
 - Hello I am @zero-spirit
 - I am a - Game Developer
-       - Ethical Hacker
-       - Software Developer
-       - UI/UX Designer
+         - Ethical Hacker
+         - Software Developer
+         - UI/UX Designer
 - You can find my work at : ...
 - Contact me via : - Email : 
-                 - Instagram :
-                 - Discord : 
-                 - Reddit : 
+                   - Instagram :
+                   - Discord : 
+                   - Reddit : 
 - Always eager to work on new projects
 
 <!--
