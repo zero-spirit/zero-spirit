@@ -5,10 +5,11 @@
   * Software Developer
   * UI/UX Designer
 - You can find my work at : ...
-- Contact me via : -  Email : 
-                   -  Instagram :
-                   -  Discord : 
-                   -  Reddit : 
+- Contact me via :
+ *Email : 
+ *Instagram :
+ *Discord : 
+ *Reddit : 
 - Always eager to work on new projects
 
 <!--
