@@ -1,14 +1,14 @@
-Hello I am @zero-spirit
-I am a - Game Developer
+- Hello I am @zero-spirit
+- I am a - Game Developer
        - Ethical Hacker
        - Software Developer
        - UI/UX Designer
-You can find my work at : ...
-Contact me via : - Email : 
+- You can find my work at : ...
+- Contact me via : - Email : 
                  - Instagram :
                  - Discord : 
                  - Reddit : 
-Always eager to work on new projects
+- Always eager to work on new projects
 
 <!--
 **zero-spirit/zero-spirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
